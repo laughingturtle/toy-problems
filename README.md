@@ -1,2 +1,2 @@
 # toy-problems
-Toy Problem practise
+Toy Problem practice
